@@ -1,0 +1,15 @@
+body{
+    background-image: url("img/rick.png");
+}
+.h{
+    text-align: center;
+    color: yellow;
+    font-size: xx-large;
+    stroke: black;
+    -webkit-text-stroke: 1.5px;
+    -webkit-text-stroke-color: black;
+}
+
+.center{
+    text-align: center;
+}
